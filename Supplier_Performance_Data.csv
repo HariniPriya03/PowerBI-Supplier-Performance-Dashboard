@@ -1,0 +1,31 @@
+Supplier ID,Supplier Name,Region,Product Category,Contract Duration (years),Historical Performance,Risk Level,Cost per Unit ($),Quality Rating (1-5),Delivery Time (days),Total Cost of Ownership (TCO) ($),Return Rate (%),On-Time Delivery (%),Market Trends (Industry Benchmark Cost),Order Fulfillment Rate (%),Compliance to Contract (%),Direct Transportation Costs ($),Indirect Transportation Costs ($),Customs and Handling Costs ($),Market Demand Forecast (%),Risk of Supply Chain Disruption,Carbon Footprint (kg CO2e),Water Usage (L),Labor Rights Compliance,Governance Practices,Sustainability Certifications
+S001,Supplier A,USA,Electronics,5,High,Low,42,3.7,10,270,2,95,50,98,100,25,30,45,5,Low,1500,2000,Compliant,Transparent,"ISO 14001, Fair Trade"
+S002,Supplier B,China,Automotive,3,Moderate,Medium,43,3.8,11,274,3,90,45,92,95,20,25,40,3,Medium,2000,2500,Non-Compliant,Moderate,ISO 9001
+S003,Supplier C,Germany,Textile,7,High,Low,44,3.9,12,278,1,98,55,95,98,30,35,50,4,Low,1300,1800,Compliant,Excellent,"ISO 14001, SA8000"
+S004,Supplier D,Japan,Chemicals,6,Low,High,45,4,13,300,5,80,60,90,85,35,40,55,2,High,2200,2700,Non-Compliant,Moderate,"ISO 14001, OHSAS 18001"
+S005,Supplier E,India,Construction,4,Moderate,Medium,46,4,14,286,6,85,48,87,90,22,28,42,3,Medium,1900,2400,Compliant,Moderate,ISO 14001
+S006,Supplier F,France,Electronics,2,High,Low,47,4.2,15,290,4,92,50,94,99,27,32,47,4,Low,1400,2100,Compliant,Excellent,"ISO 14001, SA8000"
+S007,Supplier G,South Korea,Automotive,3,Moderate,High,48,4.3,22,294,2,88,53,89,93,30,38,53,3,High,2100,2600,Non-Compliant,Low,ISO 9001
+S008,Supplier H,Mexico,Textile,8,Low,Medium,49,4.4,17,298,7,82,47,85,90,23,29,45,2,Medium,1700,2200,Compliant,Moderate,ISO 14001
+S009,Supplier I,Canada,Apparel,5,High,Low,50,4,18,302,4,94,49,96,98,24,31,46,4,Low,1600,2100,Compliant,Excellent,"ISO 14001, SA8000"
+S010,Supplier J,UK,Machinery,6,Moderate,High,51,4.6,19,306,3,96,52,97,100,26,33,48,3,High,2400,2800,Non-Compliant,Moderate,"ISO 14001, OHSAS 18001"
+S011,Supplier K,Brazil,Textile,6,High,Low,52,4.7,20,310,1,97,56,95,97,28,36,52,5,Low,1450,1830,Compliant,Excellent,"ISO 14001, Fair Trade"
+S012,Supplier L,USA,Electronics,4,Moderate,Low,45,4.8,21,270,3,92,49,93,94,23,31,45,4,Low,1500,1950,Compliant,Excellent,"ISO 14001, SA8000"
+S013,Supplier M,China,Automotive,5,Moderate,Medium,54,4,22,318,3,91,45,90,92,19,24,41,3,Medium,1950,2550,Compliant,Moderate,ISO 9001
+S014,Supplier N,Germany,Textile,8,High,Low,55,5,23,322,1,96,51,95,98,28,33,48,4,Low,1380,1780,Compliant,Excellent,"ISO 14001, SA8000"
+S015,Supplier O,Japan,Chemicals,6,High,Medium,56,5,24,270,4,84,62,89,87,31,42,57,2,Medium,2250,2750,Compliant,Good,"ISO 14001, OHSAS 18001"
+S016,Supplier P,India,Construction,5,Moderate,Medium,45,4,22,330,5,87,46,88,91,21,29,41,4,Medium,1850,2375,Compliant,Moderate,ISO 14001
+S017,Supplier Q,France,Electronics,3,High,Low,58,5,26,334,2,93,52,94,98,25,33,48,3,Low,1430,1870,Compliant,Excellent,"ISO 14001, SA8000"
+S018,Supplier R,South Korea,Automotive,3,High,Medium,59,5,27,338,3,89,54,88,90,27,37,51,2,High,2080,2590,Non-Compliant,Low,ISO 9001
+S019,Supplier S,Mexico,Textile,8,Moderate,Medium,60,5,28,270,6,83,48,86,91,25,30,47,3,Medium,1670,2230,Compliant,Moderate,ISO 14001
+S020,Supplier T,Canada,Apparel,5,High,Low,61,4,29,346,3,95,48,97,99,26,30,46,4,Low,1580,2080,Compliant,Excellent,"ISO 14001, SA8000"
+S021,Supplier U,UK,Machinery,7,High,Medium,62,5,22,350,2,95,50,96,98,22,28,47,4,Medium,2380,2780,Compliant,Excellent,"ISO 14001, OHSAS 18001"
+S022,Supplier V,Brazil,Textile,6,High,Low,63,5,31,280,1,96,53,95,97,27,35,51,5,Low,1430,1790,Compliant,Excellent,"ISO 14001, Fair Trade"
+S023,Supplier W,USA,Electronics,3,High,Low,45,5,32,358,2,94,48,95,98,24,32,45,5,Low,1480,2005,Compliant,Excellent,"ISO 14001, SA8000"
+S024,Supplier X,China,Automotive,5,Moderate,Medium,65,5,33,362,4,90,46,92,93,18,26,41,2,Medium,1960,2510,Non-Compliant,Moderate,ISO 9001
+S025,Supplier Y,Germany,Textile,7,High,Low,66,4,22,366,1,97,54,96,97,29,34,47,4,Low,1360,1760,Compliant,Excellent,"ISO 14001, SA8000"
+S026,Supplier Z,Japan,Chemicals,5,High,Medium,67,5,35,290,3,82,63,88,85,33,38,58,2,Medium,2260,2730,Non-Compliant,Moderate,"ISO 14001, OHSAS 18001"
+S027,Supplier AA,India,Construction,4,Moderate,Medium,45,5,36,374,6,86,45,89,88,20,27,40,3,Medium,1890,2355,Compliant,Moderate,ISO 14001
+S028,Supplier AB,France,Electronics,2,High,Low,69,4,37,300,4,92,51,95,97,26,34,49,4,Low,1410,2050,Compliant,Excellent,"ISO 14001, SA8000"
+S029,Supplier AC,South Korea,Automotive,4,Moderate,Medium,70,5,22,382,3,86,55,88,91,31,36,52,3,Medium,2120,2570,Compliant,Moderate,ISO 9001
+S030,Supplier AD,Mexico,Textile,8,High,Low,71,5,39,386,1,98,52,97,99,28,30,49,5,Low,1390,1810,Compliant,Excellent,"ISO 14001, Fair Trade"
