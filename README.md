@@ -31,7 +31,8 @@ A Power BI dashboard to analyze supplier performance across **delivery, quality,
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard](images/dashboard_screenshots.png)
+<img width="1382" height="785" alt="Screenshot 2026-04-24 165503" src="https://github.com/user-attachments/assets/792cb3db-91eb-451b-b57d-2d6393f34334" />
+
 
 ---
 
